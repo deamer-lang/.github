@@ -7,7 +7,7 @@ The main project can be found at [this link](https://github.com/Deruago/theDeame
 
 ## What is Deamer CC?
 
-Deamer CC is core tool of the Deamer Project (https://github.com/Deruago/theDeamerProject).
+Deamer CC is the core tool of the Deamer Project (https://github.com/Deruago/theDeamerProject).
 
 The tool is a Compiler and Ecosystem Generator.
 
